@@ -19,4 +19,4 @@ namespace лаба4
             Application.Run(new Form1());
         }
     }
-}
+}//jkjkjkj
